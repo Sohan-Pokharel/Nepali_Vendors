@@ -6,7 +6,7 @@ function About() {
     return (
         <div>
            <Navbar/> 
-         <p>This is about page</p>   
+         <p>This is about page and this one is done for testing</p>   
         </div>
     );
 }
